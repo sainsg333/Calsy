@@ -181,7 +181,7 @@ h1{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        width: 440px;
+        width: 340px;
         height: 530px;
         background-color: whitesmoke;
         position: absolute;
@@ -190,7 +190,7 @@ h1{
     }
     .box{
         margin-top: 10%;;
-        width:450px;
+        width:350px;
         height: 540px;
         overflow: hidden;
         position: relative;
