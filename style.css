@@ -159,7 +159,7 @@ h1{
     top: -300px;
 }
 }
-@media screen and (max-width:650px){
+@media screen and (max-width:1000px){
     @import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins&family=Raleway&family=Roboto&display=swap');
     *{
         padding: 0;
@@ -180,7 +180,7 @@ h1{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        width: 440px;
+        width: 340px;
         height: 530px;
         background-color: whitesmoke;
         position: absolute;
@@ -188,8 +188,9 @@ h1{
         left: 1%;
     }
     .box{
-        margin-top: 10%;;
-        width:450px;
+        margin-left: 10px;
+        margin-top: 10%;
+        width:350px;
         height: 540px;
         overflow: hidden;
         position: relative;
@@ -314,14 +315,14 @@ h1{
     @keyframes animate3{
     0%{
         opacity: 1;
-        left:40%;
+        left:37%;
         width: 150px;
         height: 150px;
         margin-bottom:0px;
     }
     100%{
         opacity: 1;
-        left:40%;
+        left:37%;
         width: 150px;
         height: 150px;
         top: -300px;
