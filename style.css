@@ -26,7 +26,8 @@ body{
     left: 1%;
 }
 .box{
-    margin-top: 10%;;
+    margin-top: 10%;
+    margin-left:10px;
     width:450px;
     height: 540px;
     overflow: hidden;
@@ -188,8 +189,12 @@ h1{
         left: 1%;
     }
     .box{
+<<<<<<< HEAD
         margin-left: 10px;
         margin-top: 10%;
+=======
+        margin-top: 10%;;
+>>>>>>> a2636b6d97daf8d70cf7e4228e25e879885bf9f0
         width:350px;
         height: 540px;
         overflow: hidden;
