@@ -315,14 +315,14 @@ h1{
     @keyframes animate3{
     0%{
         opacity: 1;
-        left:40%;
+        left:37%;
         width: 150px;
         height: 150px;
         margin-bottom:0px;
     }
     100%{
         opacity: 1;
-        left:40%;
+        left:37%;
         width: 150px;
         height: 150px;
         top: -300px;
